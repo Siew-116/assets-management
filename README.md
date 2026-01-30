@@ -4,7 +4,7 @@ Asset Management System is a web-based platform to manage assets, inventory, and
 # Live Demo
 If hosted locally, the system can be accessed via: http://localhost:3000/
 
-#Tech Stack
+# Tech Stack
 - Frontend: React, HTML, CSS, JS
 - Backend: PHP
 - Database: MySQL
