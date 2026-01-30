@@ -5,11 +5,11 @@ Asset Management System is a web-based platform to manage assets, inventory, and
 If hosted locally, the system can be accessed via: http://localhost:3000/
 
 #Tech Stack
-Frontend: React, HTML, CSS, JS
-Backend: PHP
-Database: MySQL
-Server: XAMPP (Apache + MySQL)
-Other: Axios for API calls
+- Frontend: React, HTML, CSS, JS
+- Backend: PHP
+- Database: MySQL
+- Server: XAMPP (Apache + MySQL)
+- Other: Axios for API calls
 
 # Features
 - Dashboard for asset requests and inventory
@@ -66,14 +66,14 @@ The frontend should open automatically at http://localhost:3000
 - Inventory Details: Shows asset info, assigned staff, images, and associated request info
 
 # Notes
-Default credentials for MySQL with XAMPP: root / empty password
-React frontend runs on port 3000; backend PHP runs on localhost (XAMPP default: port 80)
-All sample images use placeholder.png
+- Default credentials for MySQL with XAMPP: root / empty password
+- React frontend runs on port 3000; backend PHP runs on localhost (XAMPP default: port 80)
+- All sample images use placeholder.png
 
 # Future Improvements
-Add authentication for staff and admin accounts
-Improve reporting dashboards
-Add inventory management
+- Add authentication for staff and admin accounts
+-Improve reporting dashboards
+- Add inventory management
 
 # License
 This project is for educational/demo purposes only. Contact the author for reuse or modifications.
